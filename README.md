@@ -1,10 +1,10 @@
 ##Project Title
 #Data Analytics Project
 
-#Description
+##Description   
 This project involves data analysis using Python and SQL. It includes various data processing, cleaning, and visualization tasks to derive meaningful insights from the dataset.
 
-#Features
+##Features
 Data cleaning and preprocessing using Python
 Data analysis and manipulation with Pandas
 SQL queries for database interactions
